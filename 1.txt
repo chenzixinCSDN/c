@@ -6,9 +6,9 @@ int main()
 	int frist , second , third ;
 	for (frist = 1; frist < 5; frist++)
 	{
-		for (second = 1; second< 4; second++)
+		for (second = 1; second< 5; second++)
 		{
-			for (third =1; third< 4; third++)
+			for (third =1; third< 5; third++)
 			{
 				if (frist!=second&&frist!=third&&second!=third)
 				{
